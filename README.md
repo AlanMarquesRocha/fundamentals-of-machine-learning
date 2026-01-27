@@ -17,7 +17,7 @@
 <br>
 Este repositório é um guia prático e teórico sobre os algoritmos clássicos de <b>Machine Learning (ML)</b>. O objetivo é consolidar o entendimento sobre o funcionamento interno de cada modelo, desde os fundamentos lineares até algoritmos de aprendizado supervisionado mais complexos.
 
-Um dos principais objetivos desse repositório é na implementação dos modelos de ML sem a utilização de bibliotecas padrões (como por exemplo: Scikit-learn).
+Um dos principais objetivos desse repositório é na implementação dos modelos de ML sem a utilização de bibliotecas padrões (como por exemplo: Scikit-learn). Programando do zero (from scratch).
 
 ## 📚 Conteúdo do Repositório
 
