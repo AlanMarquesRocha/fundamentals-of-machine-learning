@@ -35,6 +35,6 @@ O projeto está dividido em módulos, cada um focado em uma família de algoritm
 ### 3. Árvores e Métodos de Conjunto (Ensemble)
 * **Decision Tree (Árvore de Decisão):** Entropia, ganho de informação e particionamento de dados.
 
-* **Random Forest:** O poder da combinação de múltiplas árvores (Bootstrap Aggregating) para reduzir o overfitting.
+* **Random Forest (Floresta Aleatória):** O poder da combinação de múltiplas árvores (Bootstrap Aggregating) para reduzir o overfitting.
 
 ---
