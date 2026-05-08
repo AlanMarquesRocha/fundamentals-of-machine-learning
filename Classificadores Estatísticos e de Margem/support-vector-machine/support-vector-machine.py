@@ -1,14 +1,14 @@
 """
-=============================================================================
- Máquina de Vetor de Suporte (SVM) - from scratch
- Dataset: Iris (Fisher, 1936) — embutido no próprio arquivo
- Bibliotecas externas usadas: APENAS numpy (álgebra linear) e matplotlib (plot)
- Tudo o mais (split, normalização, treino, métricas) é implementado manualmente.
-=============================================================================
+======================================================================================
+            Máquina de Vetor de Suporte (SVM) - from scratch
+        Dataset: Iris (Fisher, 1936) — embutido no próprio arquivo
+     Bibliotecas externas usadas: APENAS numpy (álgebra linear) e matplotlib (plot)
+      Tudo o mais (split, normalização, treino, métricas) é implementado manualmente.
+=======================================================================================
 
-============================================================================
-Author: Alan Marques da Rocha
-============================================================================
+==================================================================================
+                       Author: Alan Marques da Rocha
+==================================================================================
 
 Formulação matemática (SVM linear de margem suave):
     minimizar  (1/2)·||w||² + C · Σ max(0, 1 − yᵢ·(w·xᵢ + b))
