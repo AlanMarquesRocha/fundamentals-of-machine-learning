@@ -35,7 +35,7 @@ O projeto está dividido em módulos, cada um focado em uma família de algoritm
 * **Random Forest (Floresta Aleatória):** O poder da combinação de múltiplas árvores (Bootstrap Aggregating) para reduzir o overfitting.
 
 ### 4. Algoritmos de Deep Learning
-* Algoritmos e modelos clássicos de aprendizado profundo
+* Detector e contator de rostos utilizando o classificador Haar
 
 
 ---
